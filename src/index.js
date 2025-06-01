@@ -57,3 +57,40 @@ const app = express()
 //     console.log("Senver Running")
 // })
 */
+
+
+// HTTP -- Hyper Text Transfer Protocol
+
+// Request Headers ===> From Client
+// Response Header ===> From Server
+
+// Representation header ===> encoding / compression
+// Payload Header ===> Data
+
+
+// Most Commen Header
+
+// Accept : Application / JSON
+// User - Agent
+// Authorization
+// Content - Type
+// Cookie
+// Cache - Control
+
+
+// HTTP Method 
+
+
+// Get
+// Put
+// Post
+// Delete
+
+
+// HTTP Status Code
+
+// 1xx Informational
+// 2xx Success
+// 3xx Redirection
+// 4xx Client Error
+// 5xx Server Error
